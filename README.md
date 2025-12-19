@@ -1,6 +1,10 @@
 # indoor-co2-forecast
 
-A set of notebooks that extract a history of CO2 sensor readings, use several ML algorithms to train on the dataset in order to predict a future value, and choose the feature set, model, and model parameters with the best predicting power.  
+A set of notebooks that:
+- extract a history of CO2 sensor readings,
+- use several ML algorithms to train on the dataset in order to predict a future value,
+- log the runs in mlflow,
+- choose the feature set, model, and model parameters with the best predicting power.  
 
 ## List of the notebooks
 
